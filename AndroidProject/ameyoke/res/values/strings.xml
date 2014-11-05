@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">雨ニハ負ケズ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Loading">Loading</string>
+    <string name="dummy"></string>
+    <string name="pushSwitch">Push通知設定</string>
+    <string name="now">Now</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+
+</resources>
